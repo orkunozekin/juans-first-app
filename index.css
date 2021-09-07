@@ -1,0 +1,20 @@
+img {
+  width: 400px;
+  height: 200px;
+}
+
+#img2 {
+  display: none;
+}
+
+main {
+  text-align: center;
+}
+
+.biography-and-pics {}
+
+@media only screen and(min-width: 700px) {
+  #img2 {
+    display: flex;
+  }
+}
