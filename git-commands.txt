@@ -1,0 +1,12 @@
+1. git init
+
+2. git remote add origin https://github.com/orkunozekin/juans-first-app.git
+
+3. git remove -v (optional) : shows you the repository
+
+4. git add .
+
+5. git commit -m "your commit message goes here"
+
+6. git push -u origin master (on the first push ever) -- Then just "git push"
+
